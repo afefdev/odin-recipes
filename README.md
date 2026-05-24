@@ -4,6 +4,8 @@ Project: Recipes
 
 Create a website for recipes to practice HTML
 
+Skills to accomplish after creating website:
+
 	- HTML Structure: Understanding of tags like <html>, <head>, <body>, headings, paragraphs, lists, and links.
 
 	- Semantic Markup: Using elements like <header>, <footer>.
