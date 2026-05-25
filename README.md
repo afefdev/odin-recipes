@@ -2,7 +2,7 @@
 
 Project: Recipes
 
-Create a website for recipes to practice HTML
+Create a website for recipes to practice HTML.
 
 Skills to accomplish after creating website:
 
